@@ -48,7 +48,14 @@
     "logo": "",
     "maxGuests": 10,
     "name": "Casa Mejia",
-    "photos": [],
+    "photos": [
+      "fotos/01.jpg",
+      "fotos/02.jpg",
+      "fotos/03.jpg",
+      "fotos/04.jpg",
+      "fotos/05.jpg",
+      "fotos/06.jpg"
+    ],
     "tagline": {
       "en": "The best house 5 rooms",
       "es": "La mejor casa 5 cuartos"
